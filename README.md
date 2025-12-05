@@ -7,7 +7,7 @@
 <!-- PROFILE PHOTO -->
 <p align="center">
   <!-- Replace this with your own photo (e.g. ./assets/profile.jpg or a GitHub avatar link) -->
-  <img src="[https://via.placeholder.com/150" alt="Vivek Profile Photo](https://github.com/WEB-BY-VIVEK/WEB-BY-VIVEK/blob/cad7886443650685beebc4f4584beb9d36b23c9b/PROFILE.JPG)" width="150" style="border-radius: 50%;" />
+  <img src="https://github.com/WEB-BY-VIVEK/WEB-BY-VIVEK/blob/cad7886443650685beebc4f4584beb9d36b23c9b/PROFILE.JPG" width="150" style="border-radius: 50%;" />
 </p>
 
 <h1 align="center">Hi there 👋, I'm Vivek</h1>
