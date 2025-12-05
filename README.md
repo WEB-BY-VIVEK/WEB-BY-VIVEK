@@ -1,13 +1,13 @@
 <!-- PROFILE BANNER (optional) -->
 <p align="center">
   <!-- Replace this with your own banner image -->
-  <img src="https://via.placeholder.com/900x200?text=Welcome+to+my+GitHub+Profile" alt="Vivek Banner" />
+  <img src="https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif" alt="Vivek Banner" />
 </p>
 
 <!-- PROFILE PHOTO -->
 <p align="center">
   <!-- Replace this with your own photo (e.g. ./assets/profile.jpg or a GitHub avatar link) -->
-  <img src="https://github.com/WEB-BY-VIVEK/WEB-BY-VIVEK/blob/cad7886443650685beebc4f4584beb9d36b23c9b/PROFILE.JPG" width="150" style="border-radius: 50%;" />
+  <img src="https://github.com/WEB-BY-VIVEK/WEB-BY-VIVEK/blob/cad7886443650685beebc4f4584beb9d36b23c9b/PROFILE.JPG" style="width:150px; height:150px; border-radius: 50%;" />
 </p>
 
 <h1 align="center">Hi there 👋, I'm Vivek</h1>
