@@ -1,13 +1,13 @@
 <!-- PROFILE BANNER (optional) -->
 <p align="center">
   <!-- Replace this with your own banner image -->
-  <img src="https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif" alt="Vivek Banner" />
+  <img src="https://68.media.tumblr.com/61d4fea89f86eb4cb5a7e616d9cd4832/tumblr_owi25v6uAo1r4gsiio1_1280.gif" alt="Vivek Banner" />
 </p>
 
 <!-- PROFILE PHOTO -->
 <p align="center">
   <!-- Replace this with your own photo (e.g. ./assets/profile.jpg or a GitHub avatar link) -->
-  <img src="https://github.com/WEB-BY-VIVEK/WEB-BY-VIVEK/blob/cad7886443650685beebc4f4584beb9d36b23c9b/PROFILE.JPG" style="width:150px; height:150px; border-radius: 50%;" />
+  <img src="https://github.com/WEB-BY-VIVEK/WEB-BY-VIVEK/blob/d5e7ecb957ef2689e5f18d107f295dcbb22623e0/github123.jpg" style="width:250px; height:250px; border-radius: 80%;" />
 </p>
 
 <h1 align="center">Hi there 👋, I'm Vivek</h1>
@@ -74,6 +74,16 @@
 </p>
 
 ---
+
+
+### 📅 Contribution Graph
+<p align="center">
+  <img 
+    src="https://github-readme-activity-graph.vercel.app/graph?username=WEB-BY-VIVEK&theme=tokyo-night&hide_border=true" 
+    alt="Contribution Graph" 
+  />
+</p>
+
 
 ### 📫 How to Reach Me
 
