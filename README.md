@@ -58,22 +58,6 @@
 
 ---
 
-### 📊 GitHub Analytics
-
-<p align="center">
-  <!-- Replace WEB-BY-VIVEK with your GitHub username if different -->
-  <img src="https://github-readme-stats.vercel.app/api?username=WEB-BY-VIVEK&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=WEB-BY-VIVEK&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WEB-BY-VIVEK&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
-
----
 
 
 ### 📅 Contribution Graph
