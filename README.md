@@ -10,7 +10,7 @@
   <img src="https://github.com/WEB-BY-VIVEK/WEB-BY-VIVEK/blob/d5e7ecb957ef2689e5f18d107f295dcbb22623e0/github123.jpg" style="width:250px; height:250px; border-radius: 80%;" />
 </p>
 
-<h1 align="center">Hi there 👋, I'm Vivek</h1>
+<h1 align="center">Hi there 👋, I'm Vivek </h1>
 
 <!-- ANIMATED TYPING TEXT -->
 <p align="center">
