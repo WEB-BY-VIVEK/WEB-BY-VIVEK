@@ -27,7 +27,7 @@
 
 - 💻 Front-End Developer focused on **clean UI** and **responsive design**
 - 🌱 Currently learning **advanced React**, **state management**, and **full-stack concepts**
-- 🐍 Exploring **Python** and **SQL** to build complete web solutions
+- 🐍 Exploring ***Python*** and **SQL** to build complete web solutions
 - ✨ Always excited to learn, build, and collaborate on real-world projects
 
 ---
