@@ -77,7 +77,7 @@
 - 📍 Location: **Noida, India**
 
 ---
-
+<!--  TYPING TEXT -->
 ### ✨ Final Note
 
 > 👋 Hello World! Thanks for visiting my profile — feel free to check out my repositories and connect with me!
