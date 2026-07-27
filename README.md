@@ -1,4 +1,3 @@
-----
 
 <!-- PROFILE BANNER (optional) -->
 <p align="center">
