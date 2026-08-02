@@ -7,7 +7,6 @@
 </p>
 
 
-
 <!-- PROFILE PHOTO -->
 <p align="center">
   <!-- Replace this with your own photo (e.g. ./assets/profile.jpg or a GitHub avatar link) -->
