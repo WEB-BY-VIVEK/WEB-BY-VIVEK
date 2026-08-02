@@ -66,7 +66,17 @@
 ---
 
 
+<h3>🤖 AI & Vibe Coding Tools</h3>
 
+<p>
+  <img src="https://img.shields.io/badge/ChatGPT-74AA9C?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white" />
+  <img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=googlegemini&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google%20AI%20Studio-4285F4?style=for-the-badge&logo=google&logoColor=white" />
+  <img src="https://img.shields.io/badge/Replit-F26207?style=for-the-badge&logo=replit&logoColor=white" />
+  <img src="https://img.shields.io/badge/Emergent-6C63FF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Hostinger%20Horizons-673DE6?style=for-the-badge" />
+</p>
 
 ### 📅 Contribution Graph
 <p align="center">
