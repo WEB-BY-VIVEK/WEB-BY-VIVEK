@@ -17,7 +17,6 @@
 
 
 
-
 <!-- ANIMATED TYPING TEXT -->
 <p align="center">
   <img 
