@@ -25,8 +25,34 @@
   />
 </p>
 
+
+---
+<div align="center">
+
+# 👋 Hi, I'm Your Name
+
+### 🚀 Full Stack Developer | 🤖 AI Enthusiast | 💡 Vibe Coder
+
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;AI+App+Builder;React+%7C+Node.js+%7C+MySQL;Building+Cool+Things+Every+Day!" alt="Typing SVG" />
+
+</div>
+
 ---
 
+## 🙋‍♂️ About Me
+
+- 🌱 Currently learning **Advanced Full Stack Development & AI**
+- 💻 Building **AI-powered web applications**
+- 🤝 Open to collaborating on **Open Source & AI Projects**
+- ⚡ Fun fact: *I love turning ideas into products using AI.*
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile+Views&color=0e75b6&style=for-the-badge" />
+  <img src="https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/github/stars/YOUR_GITHUB_USERNAME?affiliations=OWNER&style=for-the-badge" />
+</p>
 ### 👨‍💻 About Me
 
 - 💻 Front-End Developer focused on **clean UI** and **responsive design**
