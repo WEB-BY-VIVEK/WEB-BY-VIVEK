@@ -58,7 +58,6 @@
 </p>
 
 ---
-
 <h3>🤖 AI & Vibe Coding Tools</h3>
 
 <p>
@@ -82,10 +81,11 @@
 ## How to Reach Me
 
 📧 **Email:** [vk215340@gmail.com](mailto:vk215340@gmail.com)
+💼 **LinkedIn:** [linkedin.com/in/vivek20004](https://www.linkedin.com/in/vivek20004)
 
 📍 **Location:** Noida, India
 
-💼 **LinkedIn:** [linkedin.com/in/vivek20004](https://www.linkedin.com/in/vivek20004)
+
 
 ---
 <!--  TYPING TEXT -->
