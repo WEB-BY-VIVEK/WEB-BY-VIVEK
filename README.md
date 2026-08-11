@@ -81,6 +81,7 @@
 ## How to Reach Me
 
 📧 **Email:** [vk215340@gmail.com](mailto:vk215340@gmail.com)
+
 💼 **LinkedIn:** [linkedin.com/in/vivek20004](https://www.linkedin.com/in/vivek20004)
 
 📍 **Location:** Noida, India
