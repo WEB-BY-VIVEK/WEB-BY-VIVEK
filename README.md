@@ -12,8 +12,6 @@
 
 <h1 align="center">Hi there 👋, I'm Vivek </h1>
 
-
-
 <!-- ANIMATED TYPING TEXT -->
 <p align="center">
   <img 
@@ -21,7 +19,6 @@
     alt="Typing SVG" 
   />
 </p>
-
 
 ---
 
@@ -33,7 +30,6 @@
 - ✨ Always excited to learn, build, and collaborate on real-world projects
 
 ---
-
 
 ### 🛠 Tech Stack
 
