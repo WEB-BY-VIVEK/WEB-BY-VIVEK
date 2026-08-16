@@ -85,8 +85,6 @@
 
 📍 **Location:** Noida, India
 
-
-
 ---
 <!--  TYPING TEXT -->
 ### ✨ Final Note
