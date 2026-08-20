@@ -1,11 +1,12 @@
 <!-- PROFILE BANNER (optional) -->
-
 <p align="center">
   <!-- Replace this with your own banner image -->
   <img src="https://68.media.tumblr.com/61d4fea89f86eb4cb5a7e616d9cd4832/tumblr_owi25v6uAo1r4gsiio1_1280.gif" alt="Vivek Banner" />
 </p>
-
 <!-- PROFILE PHOTO -->
+
+
+
 <p align="center">
   <!-- Replace this with your own photo (e.g. ./assets/profile.jpg or a GitHub avatar link) -->
   <img src="https://github.com/WEB-BY-VIVEK/WEB-BY-VIVEK/blob/d5e7ecb957ef2689e5f18d107f295dcbb22623e0/github123.jpg" style="width:250px; height:250px; border-radius: 80%;" />
