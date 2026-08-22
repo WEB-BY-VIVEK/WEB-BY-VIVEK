@@ -5,8 +5,6 @@
 </p>
 <!-- PROFILE PHOTO -->
 
-
-
 <p align="center">
   <!-- Replace this with your own photo (e.g. ./assets/profile.jpg or a GitHub avatar link) -->
   <img src="https://github.com/WEB-BY-VIVEK/WEB-BY-VIVEK/blob/d5e7ecb957ef2689e5f18d107f295dcbb22623e0/github123.jpg" style="width:250px; height:250px; border-radius: 80%;" />
