@@ -7,7 +7,7 @@
 
 <p align="center">
   <!-- Replace this with your own photo (e.g. ./assets/profile.jpg or a GitHub avatar link) -->
-  <img src="bg remve profile photo.png" style="width:250px; height:250px; border-radius: 80%;" />
+  <img src="vivek-profile-reveal.gif" style="width:250px; height:250px; border-radius: 80%;" />
 </p>
 <h1 align="center">Hi there 👋, I'm Vivek </h1>
 
