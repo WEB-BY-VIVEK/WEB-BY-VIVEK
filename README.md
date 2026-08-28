@@ -83,7 +83,6 @@
 💼 **LinkedIn:** [linkedin.com/in/vivek20004](https://www.linkedin.com/in/vivek20004)
 
 📍 **Location:** Noida, India
-
 ---
 <!--  TYPING TEXT -->
 ### ✨ Final Note
