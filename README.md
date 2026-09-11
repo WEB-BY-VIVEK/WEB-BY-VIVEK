@@ -81,9 +81,16 @@
 📧 **Email:** [vivektech20004@gmail.com](mailto:vivektech20004@gmail.com)
 
 💼 **LinkedIn:** [linkedin.com/in/vivek20004](https://www.linkedin.com/in/vivek20004)
+## 🌐 My Portfolio
 
-📍 **Location:** Noida, India
+🚀 Check out my personal portfolio to explore my projects, skills, experience, and work in development & AI automation.
+
+👉 **[Visit My Portfolio](https://mrvivekportfolio.vercel.app/)**
+
+[![Portfolio](https://img.shields.io/badge/🌐_Visit_My_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://mrvivekportfolio.vercel.app/)
+
 ---
+📍 **Location:** Noida, India
 <!--  TYPING TEXT -->
 ### ✨ Final Note
 
